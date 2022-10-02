@@ -107,14 +107,18 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 40px
+  /* right: 300px; */
+  right: 18.75%;
+  /* top: 40px */
+  top: 4.5%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
-  bottom: 300px;
+  /* left: 250px; */
+  left: 15.625%;
+  /* bottom: 300px; */
+  bottom: 35%
 }
 
 .intro {
